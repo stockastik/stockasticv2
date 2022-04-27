@@ -1,0 +1,8 @@
+ta
+yahoo_fin
+requests_html
+plotly
+streamlit
+pyngrok
+flair
+pyyaml==5.4.1
